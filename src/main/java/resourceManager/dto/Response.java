@@ -1,4 +1,4 @@
-package resourceManager.model;
+package resourceManager.dto;
 
 public class Response {
 	private String statusCode;

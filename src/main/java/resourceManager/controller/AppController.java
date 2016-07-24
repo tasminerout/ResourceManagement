@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import resourceManager.model.Person;
-import resourceManager.model.Response;
+import resourceManager.dto.Person;
+import resourceManager.dto.Response;
 import resourceManager.service.IAppService;
 
 @Controller

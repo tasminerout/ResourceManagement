@@ -1,4 +1,4 @@
-package resourceManager.model;
+package resourceManager.dto;
 
 import java.util.List;
 
