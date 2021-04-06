@@ -13,3 +13,11 @@ to run::
 
 3) hit "http://localhost:8080/index.html"
 
+about ::
+sample project with spring boot 2.x setup. 
+- Rest web service
+- maven project
+- Spring boot 2.x
+- UI
+- mvc
+
